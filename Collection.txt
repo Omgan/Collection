@@ -1,1 +1,2 @@
 Build cross platform desktop apps with web technologies | http://electron.atom.io/
+Develop Awesome UI designs in the HTML | http://semantic-ui.com/
