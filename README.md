@@ -1,0 +1,2 @@
+# Collection
+Daily collections
